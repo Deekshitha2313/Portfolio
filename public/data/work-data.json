@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/frntend.jpg",
+      "title": "Frontend development internship",
+      "company": "The Pearl Tech solutions",
+      "slug": "Frontend development internship certificate"
+    },
+    {
+      "image": "/images/work/uiux.jpg",
+      "title": "Web Development internship",
+      "company": "The Pearl Tech solutions",
+      "slug": "Web Development internship certificate"
+    },
+    {
+      "image": "/images/work/react.jpg",
+      "title": "Javascript with ReactJs internship",
+      "company": "Ei Systems",
+      "slug": "Javascript with ReactJs internship certificates"
+    },
+    {
+      "image": "/images/work/oracle.jpg",
+      "title": "Oracle Cloud Infrastructure",
+      "company": "Oracle",
+      "slug": "Oracle Cloud Infrastructure certificate"
+    },
+    {
+      "image": "/images/work/infosys.jpg",
+      "title": "Frontend Developer ",
+      "company": "Infosys",
+      "slug": "Frontend Developer certificate"
+    },
+    {
+      "image": "/images/work/nptel.jpg",
+      "title": "Programming in Java",
+      "company": "NPTEL",
+      "slug": "Programming in Java certificate"
+    }
+  ]
+}

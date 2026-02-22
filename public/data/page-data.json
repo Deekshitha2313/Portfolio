@@ -1,0 +1,100 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "deekshi754.com",
+        "icon": "/images/icon/email.png",
+        "link": "mailto:deekshi754.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9940284771",
+        "icon": "/images/icon/phone.png",
+        "link": "tel:+91 9940284771"
+      },
+      {
+        "type": "github",
+        "label": "github.com/Deekshitha2313",
+        "icon": "/images/icon/github.png",
+        "link": "https://github.com/Deekshitha2313"
+      }
+    ],
+    "socialItems": [
+     
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/deekshithag23/"
+      },
+      {
+        "platform": "whatsapp",
+        "icon": "/images/icon/whatsapp.png",
+        "link": "https://wa.me/9940284771"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": " Doveton girls' higher secondary school-2021",
+        "description": "Class X – TN Board – Percentage: 100%"
+      },
+      {
+        "title": "Doveton girls' higher secondary school-2023",
+        "description": "Class X – TN Board – Percentage: 83%"
+      },
+      {
+        "title": "Panimalar Engineering College - 2027",
+        "description": "Bachelor of Engineering  – Computer Science and Engineering – CGPA: 8.99"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 2
+      },
+      {
+        "name": "Msword",
+        "icon": "/images/home/education-skill/ms.png",
+        "rating": 3
+      },
+      {
+        "name": "Git",
+        "icon": "/images/home/education-skill/git.png",
+        "rating": 2
+      },
+      {
+        "name": "VS Code",
+        "icon": "/images/home/education-skill/vs.png",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      
+      {
+        "title": "whatsapp",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "deekshi754@gmail.com",
+        "link": "mailto:deekshi754@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9940284771",
+        "link": "tel:+91 9940284771"
+      }
+    ]
+  }
+}
