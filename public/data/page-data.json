@@ -42,7 +42,7 @@
       },
       {
         "title": "Doveton girls' higher secondary school-2023",
-        "description": "Class X – TN Board – Percentage: 83%"
+        "description": "Class XII – TN Board – Percentage: 83%"
       },
       {
         "title": "Panimalar Engineering College - 2027",
@@ -56,8 +56,8 @@
         "rating": 2
       },
       {
-        "name": "Msword",
-        "icon": "/images/home/education-skill/ms.png",
+        "name": "Java",
+        "icon": "/images/home/education-skill/java.png",
         "rating": 3
       },
       {
@@ -66,9 +66,14 @@
         "rating": 2
       },
       {
-        "name": "VS Code",
-        "icon": "/images/home/education-skill/vs.png",
-        "rating": 4
+        "name": "Python",
+        "icon": "/images/home/education-skill/python.png",
+        "rating": 3
+      },
+      {
+        "name": "MySql",
+        "icon": "/images/home/education-skill/database.png",
+        "rating": 3
       }
     ]
   },
